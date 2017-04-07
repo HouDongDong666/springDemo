@@ -1,0 +1,9 @@
+package com.nuaa.control;
+
+public class ControlHandler {
+	
+	public String helloWorld(){
+		
+	}
+
+}
