@@ -1,0 +1,5 @@
+package com.nuaa.util;
+
+public class ApplicationContextAwareUtil implements ApplicationContextAware{
+
+}

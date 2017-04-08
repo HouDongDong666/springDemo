@@ -1,0 +1,5 @@
+package com.nuaa.bean.Util;
+
+public class ApplicationContextAwareUtil {
+
+}
